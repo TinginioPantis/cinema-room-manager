@@ -1,0 +1,1 @@
+val number = 2 / 0
